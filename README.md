@@ -1,26 +1,46 @@
-## Sora
+# Sora
 
-[![GitHub followers](https://img.shields.io/github/followers/Soradevs?style=social)](https://github.com/Soradevs)
+**🔸 Desenvolvedor Full-Stack com experiência em Python, JavaScript, HTML, CSS, PHP, Elixir, C e Go.**
 
-🔸 **Full-Stack Developer with experience in Python, JavaScript, HTML, CSS, PHP, Elixir, and C.**
+**[![Seguidores do GitHub](https://img.shields.io/github/followers/Soradevs?style=social)](https://github.com/Soradevs)**
 
-🔸 **Skilled in fast API development for efficient system integration.**
+**![Estatísticas de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Soradevs&layout=compact&theme=radical&hide=HTML,CSS)**  
+**![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Soradevs&show_icons=true&theme=radical)**  
+**![Estatísticas de Commits](https://github-readme-streak-stats.herokuapp.com/?user=Soradevs&theme=radical)**  
+**![Estatísticas de Contribuições](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soradevs&theme=radical)**
 
-🔸 **Creator of** [**Hax-Elixir**](https://github.com/Soradevs/Terminal-Hax-elixir-0.8), **a shell-like tool focused on automation, data manipulation, and simple syntax.**
+**🔸 Habilidoso em desenvolvimento rápido de APIs para integração eficiente de sistemas.**
 
-🔸 **Passionate about building agile and efficient solutions for automation and data manipulation, always aiming for innovation and simplicity.**
+**🔸 Criador do [**Hax-Elixir**](https://github.com/Soradevs/Terminal-Hax-elixir-0.8), uma ferramenta semelhante a um shell focada em automação, manipulação de dados e sintaxe simples.**
 
-### **Languages & Technologies**
+**🔸 Apaixonado por construir soluções ágeis e eficientes para automação e manipulação de dados, sempre buscando inovação e simplicidade.**
 
-![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   
-![HTML5](https://img.shields.io/badge/HTML-Advanced-E34F26?style=for-the-badge&logo=html5&logoColor=white)   
-![CSS3](https://img.shields.io/badge/CSS-Intermediate-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-Intermediate-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![Elixir](https://img.shields.io/badge/Elixir-Basic-4B275F?style=for-the-badge&logo=elixir&logoColor=white)  
-![C](https://img.shields.io/badge/C-Basic-A8B9CC?style=for-the-badge&logo=c&logoColor=black)  
-![Go](https://img.shields.io/badge/Go-Learning-00ADD8?style=for-the-badge&logo=go&logoColor=white)   
+**🔸 Apaixonado por IA e novas tecnologias, sempre explorando como essas inovações podem ser aplicadas em projetos.**
 
-### **Projects**
+## **Linguagens & Tecnologias**
 
-[**Hax-Elixir**](https://github.com/Soradevs/Terminal-Hax-elixir-0.8): **A shell-like tool focused on automation, data manipulation, and simple syntax.**
+**![Python](https://img.shields.io/badge/Python-Avançado-3776AB?style=for-the-badge&logo=python&logoColor=white)**  
+**![JavaScript](https://img.shields.io/badge/JavaScript-Avançado-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)**  
+**![HTML5](https://img.shields.io/badge/HTML-Avançado-E34F26?style=for-the-badge&logo=html5&logoColor=white)**  
+**![CSS3](https://img.shields.io/badge/CSS-Intermediário-1572B6?style=for-the-badge&logo=css3&logoColor=white)**  
+**![PHP](https://img.shields.io/badge/PHP-Intermediário-777BB4?style=for-the-badge&logo=php&logoColor=white)**  
+**![Elixir](https://img.shields.io/badge/Elixir-Básico-4B275F?style=for-the-badge&logo=elixir&logoColor=white)**  
+**![C](https://img.shields.io/badge/C-Básico-A8B9CC?style=for-the-badge&logo=c&logoColor=black)**  
+**![Go](https://img.shields.io/badge/Go-Aprendendo-00ADD8?style=for-the-badge&logo=go&logoColor=white)**   
+
+## **Projetos**
+
+**- [**Hax-Elixir**](https://github.com/Soradevs/Terminal-Hax-elixir-0.8): Uma ferramenta semelhante a um shell focada em automação, manipulação de dados e sintaxe simples.**  
+
+## **Contatos**
+
+**🔸 Email: soradevs2311@gmail.com**  
+
+## **Interesses Pessoais**
+
+**🔸 Tecnologias emergentes: Acompanhando inovações em IA e machine learning.**  
+**🔸 Apaixonado por IA e novas tecnologias, sempre explorando como essas inovações podem ser aplicadas em projetos.**
+
+## **Resumo**
+
+**Sou um desenvolvedor apaixonado por criar soluções práticas e eficientes. Sempre em busca de aprender e aplicar novas tecnologias para resolver problemas complexos de forma simples.**
