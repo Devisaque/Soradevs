@@ -1,4 +1,4 @@
-# **✨ Sora ✨**
+# **✨ isaque ✨**
 
 **🔸 Desenvolvedor Full-Stack com conhecimento moderado a avançado em:**
 
@@ -39,8 +39,3 @@
 
 **Sou um desenvolvedor apaixonado por criar soluções práticas e eficientes. Sempre em busca de aprender e aplicar novas tecnologias para resolver problemas complexos de forma simples.**  
 **Busco constantemente colaborar em projetos de código aberto e contribuir para a comunidade de desenvolvedores.**
-
----
-
-## **🌐 Veja meu Portfólio:** 
-### **[https://soradevs.github.io/Portifolio/](https://soradevs.github.io/Portifolio/)**
